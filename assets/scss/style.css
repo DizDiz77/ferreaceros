@@ -12045,6 +12045,7 @@ textarea.form-control-lg {
 
 .nc {
   margin-left: 72px;
+  color: #E4E4E4;
 }
 
 .taladros {
@@ -12118,6 +12119,44 @@ p {
 
 .otras-ofertas {
   width: 100%;
+}
+
+.tarjeta {
+  width: 100%;
+}
+
+.precio-oferta {
+  color: #3AC331;
+}
+
+.otros-vieron {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.color-persona {
+  color: red;
+}
+
+.boton-de-compra {
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #FFD664;
+}
+
+.oferta-1, .oferta-2 {
+  color: #3AC331;
+}
+
+.oferta {
+  background-color: red;
+  color: #FFFFFF;
+}
+
+.botton {
+  text-decoration: none;
+  color: black;
 }
 
 /*Boton*/
